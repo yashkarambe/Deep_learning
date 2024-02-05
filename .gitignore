@@ -1,2 +1,3 @@
 CNN/Face_emotions_dectiction/Data
 CNN/Face_emotions_dectiction/mode_vgg16.pkl
+CNN/Face_emotions_dectiction/mode_vgg_update.pkl
