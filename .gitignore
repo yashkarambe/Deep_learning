@@ -3,3 +3,6 @@ CNN/Face_emotions_dectiction/mode_vgg16.pkl
 CNN/Face_emotions_dectiction/mode_vgg_update.pkl
 CNN/Face_emotions_dectiction/mode_vgg_update_v1.pkl
 LSTM/next_word_predictor.pkl
+LSTM/Text_generation/archive(6)
+LSTM/Text_generation/Q&A_with_prompt.xlsx
+LSTM/Text_generation/New Text Document.txt
